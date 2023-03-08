@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title>The Special Military Group</title>
+</head>
+
+<body>
+    <h2>More Info</h2> 
+    <h6>More info on everything</h6>
+
+    <ul>
+        <li>An - A-10</li>
+        <li>Alex - AC-130</li>
+        <li>Ethan - C-130</li>
+        <li>Jimmy - EC-130 J Commando Solo</li>
+        <li>Conner - Comando Scout</li>
+        <li>Spencer - Spahpanzer Luchs</li>
+        <li>Isabela - F-15</li>
+        <li>Bhavea - </li>
+        <li>Simone - H H - G O G Pave</li>
+    </ul>
+    <h5><a href="">Back</a></h5>
+    <br />
+    <br />
+
+    <div style="text-align: left; vertical-align: bottom; object-fit: cover;">
+        <img src="https://th.bing.com/th/id/R.27b58ce0112325c3d60b879ea67b0b28?rik=b1D5Wn7%2bN5PdyQ&riu=http%3a%2f%2fclipground.com%2fimages%2ffighter-aircraft-clipart-13.jpg&ehk=cLLkC6K4sBTt1ynM8vWIkH20385sSAc5ESSj%2fS2969I%3d&risl=&pid=ImgRaw&r=0"
+             width="Auto"
+             height="180"
+             id="img"
+    </div>
+</body>
+</html>
